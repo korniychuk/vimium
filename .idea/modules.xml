@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Vimium Chrome Extension.iml" filepath="$PROJECT_DIR$/.idea/Vimium Chrome Extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vimium-chrome-browser.iml" filepath="$PROJECT_DIR$/.idea/vimium-chrome-browser.iml" />
     </modules>
   </component>
 </project>
